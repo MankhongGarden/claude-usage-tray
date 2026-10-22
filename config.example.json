@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "accountLabel": "Max",
+  "credentialsFile": "",
+  "claudeVersion": "",
+  "quotaMinutes": 5,
+  "statusSeconds": 60,
+  "alertPercent": 95,
+  "pinTray": true,
+  "dataDir": ""
+}
